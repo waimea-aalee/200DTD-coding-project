@@ -72,7 +72,6 @@ fun setupGame() {
 //    for (i in readln().indices) {
 //        println("${i+1} - ${readln()[i]}")
     }
-}
 
 fun showGameState() {
 
